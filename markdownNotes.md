@@ -52,3 +52,5 @@ yeah
 3. jjdjd
 
 ## Image 
+
+<img src= "https://raw.githubusercontent.com/DelphinaRi/Spring-2023_Postmodern_Software-/main/images/chicken.jpg" width = "500" height = "500"/>
