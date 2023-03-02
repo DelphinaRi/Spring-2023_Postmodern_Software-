@@ -1,6 +1,6 @@
 # Markdown Example 
 
-<!-- [Home](./..) -->
+[Home](../index.md)
 
 
 ## Code Blocks 
