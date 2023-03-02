@@ -1,13 +1,13 @@
 # Github Pages Home Page 
 
-
-
 <!-- relative path to markdown file--> 
 ## [Link to Local Markdown Pages](./Markdown/MarkdownExample.md)
+
 [Markdown Example](./Markdown/MarkdownExample.md)
 
 <!-- relative path to html file-->
 ## [Link to Local HTML Page](./html/htmlExample.html) 
+
 [HTML Example](./html/htmlExample.html)
 
 <!-- relative path to image file-->
