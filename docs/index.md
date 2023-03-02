@@ -12,8 +12,7 @@
 
 <!-- relative path to image file-->
 ## Local Image 
-<img src="./images/chicken.jpg" width = "500" height = "500" 
->
+<img src="./images/chicken.jpg" width = "500" height = "500">
 
 <!-- relative path to video file-->
 ## Embedded youtube video
